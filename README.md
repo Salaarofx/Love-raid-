@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/9acc785291052c8f8998d.jpg" alt="BOT-SPAM Logo">
+  <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
   <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
@@ -16,12 +16,12 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/Spambot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Salaarofx/Love-raid-)
 
 
 # Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/DNHcHELL)
+* [Channel](https://t.me/Notyouaagain)
+* [Support Group](https://t.me/Notyouaagain)
 
 # Credits
 * [RiZoeL Creator](https://github.com/MrRizoel)
